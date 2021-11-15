@@ -1,0 +1,22 @@
+#one {
+
+	margin-left: auto;
+    margin-right: auto;
+    
+
+    width: 700px;
+	height: 200px;
+	border: 1px solid black;
+	padding-bottom: 50px;
+	
+
+}
+
+h2 {
+	color: blue;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+}
